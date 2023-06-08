@@ -1,3 +1,5 @@
+![Screenshot (58)](https://github.com/Saunakghosh10/Precis-ai/assets/76943154/ba7d0bf2-5772-48a6-86ad-4aacad386519)
+
 # Precis AI
 
 ## Website Summarizer is a powerful tool that allows you to generate concise summaries for any website on the internet. It leverages Vite as the frontend framework and utilizes the OpenAI API for state-of-the-art natural language processing.
