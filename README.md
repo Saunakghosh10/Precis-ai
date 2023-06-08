@@ -1,4 +1,5 @@
-# TO USE THE SUMMARIZER WEBSITE click here - https://precis-ai-three.vercel.app/
+# TO USE THE SUMMARIZER WEBSITE click below 
+https://precis-ai-three.vercel.app/
 
 ![Screenshot (58)](https://github.com/Saunakghosh10/Precis-ai/assets/76943154/ba7d0bf2-5772-48a6-86ad-4aacad386519)
 
